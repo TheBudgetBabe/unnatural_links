@@ -1,0 +1,3 @@
+.ruby-*
+*.pstore
+.vscode
